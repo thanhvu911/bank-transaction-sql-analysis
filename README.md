@@ -33,30 +33,32 @@ Data profiling and validation · T-SQL joins, aggregation, and CASE-based bucket
 
 ## Gallery
 
-**Data flow**
+_Diagrams are editable in draw.io: [`docs/diagrams/`](docs/diagrams)._
 
-![Data flow](assets/dataflow.png)
+**Workflow: validate, transform, analyze**
 
-**Data model**
+![Workflow: validate, transform, analyze](assets/dataflow.png)
 
-![Data model](assets/data-model.png)
+**Data model: accounts and transactions**
 
-**Insight: data quality**
+![Data model: accounts and transactions](assets/data-model.png)
 
-![Insight: data quality](assets/insight-data-quality.png)
+**Data-quality findings**
 
-**Insight: peak hours**
+![Data-quality findings](assets/insight-data-quality.png)
 
-![Insight: peak hours](assets/insight-peak-hours.png)
+**Transactions by hour of day**
 
-**Insight: value by account type**
+![Transactions by hour of day](assets/insight-peak-hours.png)
 
-![Insight: value by account type](assets/insight-value-by-account-type.png)
+**Transaction value by account type**
 
-**Code: analysis queries**
+![Transaction value by account type](assets/insight-value-by-account-type.png)
 
-![Code: analysis queries](assets/code-analysis-queries.png)
+**Analysis queries**
 
-**Code: validation checks**
+![Analysis queries](assets/code-analysis-queries.png)
 
-![Code: validation checks](assets/code-validation-checks.png)
+**Validation checks**
+
+![Validation checks](assets/code-validation-checks.png)
