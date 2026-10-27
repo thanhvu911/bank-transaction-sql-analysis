@@ -7,6 +7,8 @@ The workflow mirrors a real analyst engagement: first prove the data can be trus
 
 ![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 
+> **New here? Read the [SQL walkthrough](WALKTHROUGH.md)**: every query with its actual output table and a plain-English explanation of what it shows.
+
 ## Dataset
 | Table | Rows | Columns |
 |---|---|---|
